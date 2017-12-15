@@ -1,0 +1,39 @@
+body {
+	background-color: #55ACEE;
+	font-family: 'Spectral SC', serif;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	letter-spacing: 3px;
+}
+
+h3, h4 {
+	font-family: 'Lora', serif;
+}
+
+a {
+	display: block;
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: blue;
+}
+
+.button {
+	margin: 30px 15px 50px 550px;
+	padding: 5px 50px;
+	background: #55acee;
+    border: 1px solid #EEE;
+	color: white;
+	font-family: 'Spectral SC', serif;
+	display: block;
+}
+
+.button:hover {
+	color: blue;
+}
